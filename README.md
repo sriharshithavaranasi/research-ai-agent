@@ -23,8 +23,3 @@ A powerful AI-driven research assistant using LangChain, OpenAI, and Anthropic A
 - [DuckDuckGo Search](https://duckduckgo.com/)
 - [Wikipedia API](https://www.mediawiki.org/wiki/API:Main_page)
 - Python 3.9+
-
----
-
-## 🗂️ Directory Structure
-
